@@ -18,7 +18,7 @@ I'm currently pursuing my BTech and diving deep into backend development with Ja
 ## ✨ Featured Projects
 
 - [ai-repurposer](https://github.com/Akshit0001-error/ai-repurposer): AI-powered tool to repurpose content for various platforms.
-- [onlineQuizApp](https://github.com/Akshit0001-error/onlineQuizApp): A full-stack quiz application with real-time features.
+
 
 ---
 
